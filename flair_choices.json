@@ -1,0 +1,165 @@
+{
+  "cancer": [
+    0,
+    {
+      "cancer": 0,
+      "leukemia": 0,
+      "tumor": 0,
+      "chemo": 0
+    }
+  ],
+  "spine": [
+    0,
+    {
+      "spine": 0,
+      "spinal": 0,
+      "epidural": 0,
+      "cns": 0,
+      "central nerv": 0,
+      "electrical stimulat": 0,
+      "electric stimulat": 0
+    }
+  ],
+  "brain": [
+    0,
+    {
+      "brain": 0,
+      "neuro": 0,
+      "bdnf": 0,
+      "trkb": 0,
+      "concussion": 0,
+      "stroke": 0,
+      "cortex": 0,
+      "hippocampus": 0,
+      "alzheimer": 0,
+      "memory": 0,
+      "synap": 0,
+      "neural": 0,
+      "amygdala": 0,
+      "mind": 0
+    }
+  ],
+  "nerves": [
+    0,
+    {
+      "nerve": 0,
+      "peripheral nerv": 0,
+      "ngf": 0,
+      "trka": 0,
+      "nervous system": 0,
+      "neuropath": 0,
+      "myelin": 0
+    }
+  ],
+  "heart": [
+    0,
+    {
+      "heart": 0,
+      "cardio": 0,
+      "aort": 0
+    }
+  ],
+  "lungs": [
+    0,
+    {
+      "lung": 0
+    }
+  ],
+  "hair": [
+    0,
+    {
+      "hair": 0,
+      "follicle": 0
+    }
+  ],
+  "skin": [
+    0,
+    {
+      "skin": 0,
+      "dermis": 0
+    }
+  ],
+  "bones": [
+    0,
+    {
+      "bone": 0
+    }
+  ],
+  "eyes": [
+    0,
+    {
+      "eye": 0,
+      "vision": 0,
+      "sight": 0,
+      "retina": 0
+    }
+  ],
+  "bioprinting": [
+    0,
+    {
+      "3d": 0,
+      "3-d": 0,
+      "print": 0
+    }
+  ],
+  "stem cells": [
+    0,
+    {
+      "stem cell": 0,
+      "adipose": 0,
+      "mesenchymal": 0,
+      "embryonic": 0,
+      "pluripotent": 0,
+      "multipotent": 0,
+      "ips cell": 0,
+      "organoid": 0
+    }
+  ],
+  "muscle": [
+    0,
+    {
+      "muscle": 0,
+      "muscular": 0
+    }
+  ],
+  "surgery": [
+    0,
+    {
+      "surger": 0,
+      "surgeon": 0,
+      "robot": 0,
+      "davinci": 0,
+      "da vinci": 0,
+      "transplant": 0,
+      "replacement": 0
+    }
+  ],
+  "microbiome": [
+    0,
+    {
+      "microbiome": 0,
+      "gut": 0,
+      "fecal transplant": 0,
+      "poop transplant": 0,
+      "poop": 0,
+      "fecal": 0
+    }
+  ],
+    "genetics": [
+    0,
+    {
+      "gene therap": 0,
+      "genes": 0,
+      "genetic": 0,
+      "genome": 0,
+      "crispr": 0,
+      "cas9": 0,
+      "cas3": 0,
+      "cas1": 0,
+      "cas-": 0,
+      "gene edit": 0,
+      "dna": 0,
+      "microrna": 0
+    }
+  ]
+}
