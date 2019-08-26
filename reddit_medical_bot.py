@@ -154,7 +154,7 @@ def main():
 
 
 if __name__ == "__main__":
-    logf = open("medical_exception.log", "w")
+    logf = open("exception.log", "w")
     print("%s: Started\n-----" % credentials["username"])
     # time.sleep(15)
     try:
